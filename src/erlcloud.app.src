@@ -15,7 +15,7 @@
                   jsx,
                   eini,
                   base16,
-                  %% hackney,
+                  hackney,
                   lhttpc]},
   {modules, []},
   {env, []},
